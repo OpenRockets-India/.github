@@ -12,3 +12,7 @@
 [![Link to Web](https://shields.io/badge/GET%20GITSTARS®-%2324292e?style=for-the-badge&logo=github)](https://www.openrockets.me/v/2025)
 
 <a href="https://openrockets.me/v/2025"><img src="https://openrockets.me/v/gitstarts2025v.png"></a>
+
+
+#### OpenRockets India is a verified affiliate of the OpenRockets Open-source Software Foundation.
+#### © 2025 OpenRockets Open-source Software Foundation. All rights reserved.
